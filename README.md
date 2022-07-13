@@ -1,9 +1,9 @@
 # Full Stack Java
-Name : Ritukalpa Gogoi
-Registration Number : 11908566
-Frontend : ReactJs, Bootstrap
-Backend : SprintBoot
-DB : MySql
+Name : Ritukalpa Gogoi <br>
+Registration Number : 11908566 <br>
+Frontend : ReactJs, Bootstrap <br>
+Backend : SprintBoot <br>
+DB : MySql <br>
 
 Homepage
 <img src="./images/homeScreen.PNG">
