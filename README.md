@@ -2,7 +2,7 @@
 Name : Ritukalpa Gogoi <br>
 Registration Number : 11908566 <br>
 Frontend : ReactJs, Bootstrap <br>
-Backend : SprintBoot <br>
+Backend : SpringBoot <br>
 DB : MySql <br>
 
 Homepage
